@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rub3n56
 - 👀 I’m interested in Network Automation
-- 🌱 I’m currently learning python and expanding my knowlede automation tools. 
+- 🌱 I’m currently learning python and expanding my knowledge on automation tools. 
 - 💞️ I’m looking to collaborate on network related topics
 - 📫 You can reach me at rubengperez56@gmail.com
 
